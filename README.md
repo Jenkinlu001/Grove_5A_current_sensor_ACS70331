@@ -1,7 +1,7 @@
 Grove 5A DC/AC current sensor ACS70331
 =================================  
 
-![ACS70331](https://github.com/linux-downey/Grove_touch_sensor_MPR121/blob/master/MPR121_module.png)  
+![ACS70331]()  
 
 
 Introduction of sensor
